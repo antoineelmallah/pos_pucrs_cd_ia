@@ -1,0 +1,77 @@
+{
+  "ideas": {
+    "1": {
+      "id": 1,
+      "title": "data lake",
+      "attr": {},
+      "ideas": {
+        "1": {
+          "title": "passos para implementação",
+          "ideas": {
+            "1": {
+              "title": "1-landing zone or raw data",
+              "ideas": {
+                "1": {
+                  "title": "separado dos principais sistemas de TI",
+                  "id": 4
+                },
+                "2": {
+                  "title": "ambiente de captura pura de dados",
+                  "id": 5
+                },
+                "3": {
+                  "title": "baixo custo",
+                  "id": 6
+                },
+                "4": {
+                  "title": "escalável",
+                  "id": 7
+                }
+              },
+              "id": 3
+            },
+            "2": {
+              "title": "2-data science environment",
+              "ideas": {
+                "1": {
+                  "title": "uso pelas organizações como plataforma de experimentação",
+                  "id": 9
+                }
+              },
+              "id": 8
+            },
+            "3": {
+              "title": "3-offload for data warehouses",
+              "ideas": {
+                "1": {
+                  "title": "armazenamento de dados raramente usados ou inativos devido ao baixo custo",
+                  "id": 11
+                },
+                "2": {
+                  "title": "começando a integração com os EDWs existentes",
+                  "id": 12
+                }
+              },
+              "id": 10
+            },
+            "4": {
+              "title": "4-critical component of data operations",
+              "ideas": {
+                "1": {
+                  "title": "muito provável que grande parte das informações das empresas estejam passando pelo data lake",
+                  "id": 14
+                }
+              },
+              "id": 13
+            }
+          },
+          "id": 2
+        }
+      }
+    }
+  },
+  "formatVersion": 3,
+  "id": "root",
+  "attr": {},
+  "title": ""
+}

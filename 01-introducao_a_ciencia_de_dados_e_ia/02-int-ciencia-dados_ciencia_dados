@@ -1,0 +1,253 @@
+{
+  "ideas": {
+    "1": {
+      "id": 1,
+      "title": "Ciência de dados",
+      "attr": {},
+      "ideas": {
+        "1": {
+          "title": "profissional",
+          "ideas": {
+            "1": {
+              "title": "características",
+              "ideas": {
+                "1": {
+                  "title": "matemática e estatística",
+                  "id": 4
+                },
+                "2": {
+                  "title": "programação",
+                  "id": 5
+                },
+                "3": {
+                  "title": "conhecimento do negócio e soft skills",
+                  "id": 6
+                },
+                "4": {
+                  "title": "comunicação e visualização",
+                  "id": 7
+                }
+              },
+              "id": 3
+            },
+            "2": {
+              "title": "Não existe um profissional que irá resolver todos os problemas de ciência de dados de uma empresa. É uma atividade multidisciplinar. Demanda uma equipe",
+              "id": 8
+            }
+          },
+          "id": 2
+        },
+        "3": {
+          "title": "processos de negócio (6)",
+          "ideas": {
+            "1": {
+              "title": "1-problema de negócio",
+              "id": 10
+            },
+            "2": {
+              "title": "2-formulação analítica",
+              "id": 11
+            },
+            "3": {
+              "title": "3-algoritmo de solução",
+              "id": 12
+            },
+            "4": {
+              "title": "4-POC",
+              "id": 13
+            },
+            "5": {
+              "title": "5-MVP",
+              "id": 14
+            },
+            "6": {
+              "title": "6-mudanças no processo de negócio",
+              "id": 15
+            }
+          },
+          "id": 9
+        },
+        "-2": {
+          "title": "ferramentas",
+          "ideas": {
+            "1": {
+              "title": "extração e manipulação de dados",
+              "ideas": {
+                "1": {
+                  "title": "SQL",
+                  "id": 18
+                },
+                "2": {
+                  "title": "HIVE",
+                  "id": 19
+                },
+                "3": {
+                  "title": "presto",
+                  "id": 20
+                },
+                "4": {
+                  "title": "R Studio",
+                  "id": 21
+                },
+                "5": {
+                  "title": "Python",
+                  "id": 22
+                },
+                "6": {
+                  "title": "tidyverse",
+                  "id": 23
+                },
+                "7": {
+                  "title": "Pandas",
+                  "id": 24
+                },
+                "8": {
+                  "title": "rvest",
+                  "id": 25
+                },
+                "9": {
+                  "title": "Selenium",
+                  "id": 26
+                },
+                "10": {
+                  "title": "Scrapy",
+                  "id": 27
+                }
+              },
+              "id": 17
+            },
+            "2": {
+              "title": "visualização de dados",
+              "ideas": {
+                "1": {
+                  "title": "ggplot2",
+                  "id": 29
+                },
+                "2": {
+                  "title": "plotly",
+                  "id": 30
+                },
+                "3": {
+                  "title": "deaborn",
+                  "id": 31
+                },
+                "4": {
+                  "title": "leaflet",
+                  "id": 32
+                },
+                "5": {
+                  "title": "matplotlib",
+                  "id": 33
+                },
+                "6": {
+                  "title": "D3",
+                  "id": 34
+                },
+                "7": {
+                  "title": "Power BI",
+                  "id": 35
+                },
+                "8": {
+                  "title": "Tableau",
+                  "id": 36
+                },
+                "9": {
+                  "title": "Superset",
+                  "id": 37
+                },
+                "10": {
+                  "title": "Qlik Sense",
+                  "id": 38
+                }
+              },
+              "id": 28
+            },
+            "3": {
+              "title": "modelagem",
+              "ideas": {
+                "1": {
+                  "title": "Scikit Learn",
+                  "id": 40
+                },
+                "2": {
+                  "title": "H2O",
+                  "id": 41
+                },
+                "3": {
+                  "title": "tidymodels",
+                  "id": 42
+                },
+                "4": {
+                  "title": "Amazon SageMaker",
+                  "id": 43
+                },
+                "5": {
+                  "title": "TensorFlow",
+                  "id": 44
+                },
+                "6": {
+                  "title": "Prophet",
+                  "id": 45
+                }
+              },
+              "id": 39
+            },
+            "4": {
+              "title": "comunicação",
+              "ideas": {
+                "1": {
+                  "title": "rmarkdown",
+                  "id": 47
+                },
+                "2": {
+                  "title": "Shiny",
+                  "id": 48
+                },
+                "3": {
+                  "title": "Jupyter",
+                  "id": 49
+                },
+                "4": {
+                  "title": "Powerpoint",
+                  "id": 50
+                }
+              },
+              "id": 46
+            }
+          },
+          "id": 16
+        },
+        "-4": {
+          "title": "processo operacional (5)",
+          "ideas": {
+            "1": {
+              "title": "1-importar",
+              "id": 52
+            },
+            "2": {
+              "title": "2-corrigir",
+              "id": 53
+            },
+            "3": {
+              "title": "3-transformar, visualizar, modelar (iterativo)",
+              "id": 54
+            },
+            "4": {
+              "title": "4-comunicar",
+              "id": 55
+            },
+            "5": {
+              "title": "5-entregar (deploy)",
+              "id": 56
+            }
+          },
+          "id": 51
+        }
+      }
+    }
+  },
+  "formatVersion": 3,
+  "id": "root",
+  "attr": {},
+  "title": ""
+}

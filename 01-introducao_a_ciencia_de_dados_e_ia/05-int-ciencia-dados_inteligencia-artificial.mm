@@ -1,0 +1,158 @@
+<map version="1.1.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1695822671965" ID="ID_1475729567" MODIFIED="1695822720668" TEXT="intelig&#xea;ncia artificial">
+<node CREATED="1695822729059" ID="ID_317600621" MODIFIED="1695822733287" POSITION="right" TEXT="objetivos">
+<node CREATED="1695822734437" ID="ID_1482518517" MODIFIED="1695822786245" TEXT="realizar tarefas:">
+<node CREATED="1695822787459" ID="ID_518049960" MODIFIED="1695822809623" TEXT="melhor realizadas por humanos que por m&#xe1;quinas"/>
+<node CREATED="1695822811942" ID="ID_1691285115" MODIFIED="1695822842522" TEXT="n&#xe3;o possuem solu&#xe7;&#xe3;o satisfat&#xf3;ria pela computa&#xe7;&#xe3;o convencional"/>
+</node>
+<node CREATED="1695822848189" ID="ID_1326791629" MODIFIED="1695822859906" TEXT="reproduzir o comportamento inteligente"/>
+<node CREATED="1695822866487" ID="ID_1738975578" MODIFIED="1695822877878" TEXT="entender entidades inteligentes"/>
+</node>
+<node CREATED="1695822974845" ID="ID_691786935" MODIFIED="1695822992979" POSITION="left" TEXT="dimens&#xf5;es/abordagens da IA">
+<node CREATED="1695822994871" ID="ID_552933881" MODIFIED="1695823000137" TEXT="pensando">
+<node CREATED="1695823010255" ID="ID_545818589" MODIFIED="1695823016197" TEXT="como humanos">
+<node CREATED="1695823045370" ID="ID_1304522992" MODIFIED="1695823071948" TEXT="A automa&#xe7;&#xe3;o de atividades que n&#xf3;s associamos com o pensamento humano"/>
+</node>
+<node CREATED="1695823017503" ID="ID_576230287" MODIFIED="1695823026523" TEXT="racionalmente">
+<node CREATED="1695823075377" ID="ID_411916530" MODIFIED="1695823106447" TEXT="O estudo das faculdades mentais atrav&#xe9;s do uso de modelos computacionais"/>
+</node>
+</node>
+<node CREATED="1695823001393" ID="ID_1137843138" MODIFIED="1695823005952" TEXT="agindo">
+<node CREATED="1695823028751" ID="ID_848556191" MODIFIED="1695823033518" TEXT="como humanos">
+<node CREATED="1695823109116" ID="ID_440029555" MODIFIED="1695823155435" TEXT="A arte de criar m&#xe1;quinas que realizam fun&#xe7;&#xf5;es que requerem intelig&#xea;ncia quando realizadas por pessoas"/>
+</node>
+<node CREATED="1695823034795" ID="ID_1899757794" MODIFIED="1695823583745" TEXT="racionalmente">
+<node CREATED="1695823160287" ID="ID_1986505545" MODIFIED="1695823188762" TEXT="O ramo da ci&#xea;ncia da computa&#xe7;&#xe3;o que estuda a automa&#xe7;&#xe3;o de comportamento inteligente"/>
+</node>
+</node>
+<node CREATED="1695823261304" ID="ID_673396303" MODIFIED="1695823561778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Clique para abrir a imagem <img src="../../../Imagens/dimensoes-abordagens-IA.png" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1695823844454" ID="ID_1006819866" MODIFIED="1695823851570" POSITION="left" TEXT="sub-&#xe1;reas">
+<node CREATED="1695823853262" ID="ID_1365562509" MODIFIED="1695823861562" TEXT="resolu&#xe7;&#xe3;o de problemas"/>
+<node CREATED="1695823863508" ID="ID_168181597" MODIFIED="1695823872927" TEXT="representa&#xe7;&#xe3;o de conhecimento"/>
+<node CREATED="1695823874547" ID="ID_424106680" MODIFIED="1695823920649" TEXT="racioc&#xed;nio l&#xf3;gico (te&#xf3;rico)"/>
+<node CREATED="1695823885231" ID="ID_1243067517" MODIFIED="1695823902395" TEXT="sistemas especialistas (pr&#xe1;tico)"/>
+<node CREATED="1695823922710" ID="ID_6413012" MODIFIED="1695823951245" TEXT="processamento de linguagem natural (inter-disciplinar)"/>
+<node CREATED="1695823954252" ID="ID_667227581" MODIFIED="1695823975767" TEXT="agentes inteligentes, sistemas multi-inteligentes"/>
+<node CREATED="1695823976576" ID="ID_1127229352" MODIFIED="1695823982688" TEXT="redes neurais"/>
+<node CREATED="1695823983082" ID="ID_625524728" MODIFIED="1695823993866" TEXT="l&#xf3;gica difusa"/>
+</node>
+<node CREATED="1695824023345" ID="ID_376364710" MODIFIED="1695824030237" POSITION="right" TEXT="fundamentos">
+<node CREATED="1695824031367" ID="ID_1439038799" MODIFIED="1695824036621" TEXT="matem&#xe1;tica"/>
+<node CREATED="1695824037126" ID="ID_848281298" MODIFIED="1695824041931" TEXT="sociologia"/>
+<node CREATED="1695824042407" ID="ID_644646245" MODIFIED="1695824046899" TEXT="psicologia"/>
+<node CREATED="1695824047300" ID="ID_1256473755" MODIFIED="1695824052999" TEXT="computa&#xe7;&#xe3;o"/>
+<node CREATED="1695824053408" ID="ID_585867829" MODIFIED="1695824058267" TEXT="gen&#xe9;tica"/>
+<node CREATED="1695824058817" ID="ID_1253410022" MODIFIED="1695824067207" TEXT="neuro-fisiologia"/>
+<node CREATED="1695824067854" ID="ID_615174393" MODIFIED="1695824073045" TEXT="lingu&#xed;stica"/>
+<node CREATED="1695824073501" ID="ID_1162443527" MODIFIED="1695824079424" TEXT="filosofia"/>
+</node>
+<node CREATED="1695824526919" ID="ID_258133188" MODIFIED="1695824535169" POSITION="left" TEXT="aplica&#xe7;&#xf5;es">
+<node CREATED="1695824537288" ID="ID_1920579255" MODIFIED="1695824551836" TEXT="pesquisa operacional">
+<node CREATED="1695824553422" ID="ID_1934814293" MODIFIED="1695824561097" TEXT="busca e otimiza&#xe7;&#xe3;o"/>
+<node CREATED="1695824561621" ID="ID_1524264776" MODIFIED="1695824574596" TEXT="heuristicas em geral"/>
+</node>
+<node CREATED="1695824581736" ID="ID_129967697" MODIFIED="1695824588313" TEXT="jogos"/>
+<node CREATED="1695824590817" ID="ID_1370520878" MODIFIED="1695824608999" TEXT="processamento de linguagem natural">
+<node CREATED="1695824611214" ID="ID_1038777963" MODIFIED="1695824621007" TEXT="tradu&#xe7;&#xe3;o autom&#xe1;tica"/>
+<node CREATED="1695824621453" ID="ID_406930883" MODIFIED="1695824647165" TEXT="verificadores ortogr&#xe1;ficos e sint&#xe1;ticos"/>
+<node CREATED="1695824647757" ID="ID_1361985899" MODIFIED="1695824661037" TEXT="interfaces para BDs"/>
+<node CREATED="1695824661651" ID="ID_747614165" MODIFIED="1695824671456" TEXT="reconhecimento da fala"/>
+</node>
+<node CREATED="1695824682598" ID="ID_77237742" MODIFIED="1695824690330" TEXT="sistemas tutores">
+<node CREATED="1695824691752" ID="ID_1346203383" MODIFIED="1695824704174" TEXT="modelagem do aluno"/>
+<node CREATED="1695824704730" ID="ID_211602680" MODIFIED="1695824723340" TEXT="escolha de estrat&#xe9;gias pedag&#xf3;gicas"/>
+</node>
+<node CREATED="1695824728543" ID="ID_494448288" MODIFIED="1695824733889" TEXT="percep&#xe7;&#xe3;o">
+<node CREATED="1695824735252" ID="ID_469438514" MODIFIED="1695824742393" TEXT="vis&#xe3;o"/>
+<node CREATED="1695824742832" ID="ID_458599549" MODIFIED="1695824746488" TEXT="tato"/>
+<node CREATED="1695824747010" ID="ID_1482935205" MODIFIED="1695824751198" TEXT="audi&#xe7;&#xe3;o"/>
+<node CREATED="1695824751691" ID="ID_1579026014" MODIFIED="1695824754822" TEXT="paladar"/>
+</node>
+<node CREATED="1695824760406" ID="ID_10225340" MODIFIED="1695824765700" TEXT="rob&#xf3;tica">
+<node CREATED="1695824767194" ID="ID_1291941832" MODIFIED="1695824775322" TEXT="manipula&#xe7;&#xe3;o"/>
+<node CREATED="1695824775539" ID="ID_214448878" MODIFIED="1695824780843" TEXT="navega&#xe7;&#xe3;o"/>
+</node>
+</node>
+<node CREATED="1695824891526" ID="ID_1395723500" MODIFIED="1695824896835" POSITION="right" TEXT="dificuldades">
+<node CREATED="1695824898078" ID="ID_1741720005" MODIFIED="1695824904520" TEXT="representa&#xe7;&#xe3;o">
+<node CREATED="1695824905559" ID="ID_882658440" MODIFIED="1695824931404" TEXT="traduzir informa&#xe7;&#xe3;o estruturada em processos de informa&#xe7;&#xe3;o"/>
+</node>
+<node CREATED="1695824944548" ID="ID_546923839" MODIFIED="1695824956696" TEXT="generalidade x efici&#xea;ncia"/>
+<node CREATED="1695824957870" ID="ID_1793432989" MODIFIED="1695824970556" TEXT="explos&#xe3;o combinat&#xf3;ria">
+<node CREATED="1695824972306" ID="ID_98633884" MODIFIED="1695824989892" TEXT="reproduzir jogadas poss&#xed;veis do xadrez"/>
+</node>
+</node>
+<node CREATED="1695825175911" ID="ID_208920500" MODIFIED="1695825411940" POSITION="left" TEXT="agentes racionais">
+<node CREATED="1695825414807" ID="ID_797402297" MODIFIED="1695825422457" TEXT="projetar">
+<node CREATED="1695825187714" ID="ID_1914388751" MODIFIED="1695825206285" TEXT="agente &#xe9; uma entidade que percebe e age"/>
+<node CREATED="1695825206891" ID="ID_1836721704" MODIFIED="1695825238392" TEXT="agente racional seleciona a&#xe7;&#xf5;es que maximizam sua utilidade"/>
+<node CREATED="1695825239071" ID="ID_1874089187" MODIFIED="1695825295756" TEXT="caracter&#xed;sticas das percep&#xe7;&#xf5;es, ambiente e espa&#xe7;o de a&#xe7;&#xf5;es ditam t&#xe9;cnicas para selecionar a&#xe7;&#xf5;es racionais"/>
+</node>
+<node CREATED="1695825439588" ID="ID_1433492110" MODIFIED="1695825446348" TEXT="algoritmos de busca">
+<node CREATED="1695825447654" ID="ID_483493803" MODIFIED="1695825465229" TEXT="agentes que planejam com anteced&#xea;ncia"/>
+<node CREATED="1695825465819" ID="ID_805453253" MODIFIED="1695825474827" TEXT="problemas de busca">
+<node CREATED="1695825644261" ID="ID_1125308174" MODIFIED="1695825652746" TEXT="espa&#xe7;o de estados"/>
+<node CREATED="1695825653351" ID="ID_1813253286" MODIFIED="1695825673102" TEXT="fun&#xe7;&#xe3;o sucessora: a&#xe7;&#xf5;es, custos"/>
+<node CREATED="1695825673920" ID="ID_620427560" MODIFIED="1695825688714" TEXT="estado inicial e teste de objetivo"/>
+<node CREATED="1695825711685" ID="ID_1108779530" MODIFIED="1695825759015" TEXT="Solu&#xe7;&#xe3;o: sequencia de a&#xe7;&#xf5;es (plano) que transforma o estado inicial em um estado objetivo"/>
+</node>
+<node CREATED="1695825475432" ID="ID_810574773" MODIFIED="1695825485859" TEXT="m&#xe9;todos de busca cega">
+<node CREATED="1695825488529" ID="ID_1172217177" MODIFIED="1695825496301" TEXT="pesquisa em profundidade"/>
+<node CREATED="1695825496864" ID="ID_142035308" MODIFIED="1695825506396" TEXT="pesquisa em amplitude"/>
+<node CREATED="1695825506965" ID="ID_750605177" MODIFIED="1695825516141" TEXT="pesquisa de custo uniforma"/>
+</node>
+<node CREATED="1695827288336" ID="ID_1769848111" MODIFIED="1695827292873" TEXT="planejamento">
+<node CREATED="1695827525033" ID="ID_524672243" MODIFIED="1695827532257" TEXT="linguagens">
+<node CREATED="1695827549309" ID="ID_486957623" MODIFIED="1695827556637" TEXT="STRIPS"/>
+<node CREATED="1695827558412" ID="ID_505567470" MODIFIED="1695827560415" TEXT="ADL"/>
+<node CREATED="1695827561013" ID="ID_1508612671" MODIFIED="1695827565343" TEXT="PDDL"/>
+</node>
+<node CREATED="1695827534931" ID="ID_1898018383" MODIFIED="1695827538667" TEXT="classifica&#xe7;&#xe3;o">
+<node CREATED="1695827294643" ID="ID_726619694" MODIFIED="1695827309516" TEXT="cl&#xe1;ssico">
+<node CREATED="1695827322424" ID="ID_1944588005" MODIFIED="1695827344079" TEXT="ambiente completamente observ&#xe1;vel"/>
+<node CREATED="1695827344988" ID="ID_1316058703" MODIFIED="1695827352875" TEXT="determin&#xed;stico"/>
+<node CREATED="1695827353914" ID="ID_219379145" MODIFIED="1695827357700" TEXT="finito"/>
+<node CREATED="1695827358590" ID="ID_1626487607" MODIFIED="1695827364214" TEXT="est&#xe1;tico"/>
+<node CREATED="1695827365677" ID="ID_1857677931" MODIFIED="1695827369056" TEXT="discreto"/>
+</node>
+<node CREATED="1695827310466" ID="ID_1377464632" MODIFIED="1695827316220" TEXT="n&#xe3;o cl&#xe1;ssico">
+<node CREATED="1695827373202" ID="ID_1603324497" MODIFIED="1695827386876" TEXT="ambiente parcialmente observ&#xe1;vel"/>
+<node CREATED="1695827387955" ID="ID_1060038142" MODIFIED="1695827399416" TEXT="estoc&#xe1;sticos"/>
+</node>
+</node>
+<node CREATED="1695827577431" ID="ID_666551310" MODIFIED="1695827583239" TEXT="quest&#xf5;es centrais">
+<node CREATED="1695827585071" ID="ID_642064180" MODIFIED="1695827671113" TEXT="quais a&#xe7;&#xf5;es s&#xe3;o relevantes?"/>
+<node CREATED="1695827595353" ID="ID_1729335361" MODIFIED="1695827685555" TEXT="encontrar boas fun&#xe7;&#xf5;es heur&#xed;sticas?">
+<node CREATED="1695827636081" ID="ID_1837933781" MODIFIED="1695827653398" TEXT="estimativa para o custo de um estado?"/>
+<node CREATED="1695827722883" ID="ID_98139463" MODIFIED="1695827736919" TEXT="heur&#xed;stica depende ou n&#xe3;o do problema"/>
+</node>
+<node CREATED="1695827610572" ID="ID_462846539" MODIFIED="1695827693118" TEXT="como tirar proveito da decomposi&#xe7;&#xe3;o do problema?"/>
+</node>
+<node CREATED="1695832413200" ID="ID_1481773070" MODIFIED="1695832445691" TEXT="encadeamento para frente e pra tr&#xe1;s">
+<node CREATED="1695832447344" ID="ID_720072207" MODIFIED="1695832456314" TEXT="planejamento por progress&#xe3;o"/>
+<node CREATED="1695832456792" ID="ID_801324543" MODIFIED="1695832464213" TEXT="planejamento por regress&#xe3;o">
+<node CREATED="1695832620360" ID="ID_566122473" MODIFIED="1695832646727" TEXT="vantagem: somente a&#xe7;&#xf5;es relevantes s&#xe3;o necess&#xe1;rias"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1695851391054" ID="ID_969874468" MODIFIED="1695851403495" POSITION="right" TEXT="MACHINE LEARNING">
+<node CREATED="1695851406069" ID="ID_166920279" MODIFIED="1695851414213" TEXT="subconjunto da IA"/>
+<node CREATED="1695851425754" ID="ID_1624339158" MODIFIED="1695851458376" TEXT="t&#xe9;cnicas que permitem que m&#xe1;quinas melhorem a execu&#xe7;&#xe3;o de tarefas por meio da experi&#xea;ncia"/>
+</node>
+</node>
+</map>

@@ -1,0 +1,38 @@
+<map version="1.1.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1696894432431" ID="ID_762355671" MODIFIED="1696895172486" TEXT="Vari&#xe1;vel">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1696894479375" ID="ID_1025135027" MODIFIED="1696894514176" POSITION="right" TEXT="Qualitativa">
+<node CREATED="1696894524668" ID="ID_855238599" MODIFIED="1696894706598" TEXT="Nominal">
+<node CREATED="1696894662299" ID="ID_46563960" MODIFIED="1696894668626" TEXT="n&#xe3;o num&#xe9;rica"/>
+<node CREATED="1696894670555" ID="ID_304841101" MODIFIED="1696894677784" TEXT="n&#xe3;o ordenada"/>
+<node CREATED="1696894678687" ID="ID_1933322442" MODIFIED="1696895157450" TEXT="character, na linguagem R">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1696894764756" ID="ID_942200000" MODIFIED="1696894771919" TEXT="Ex. religi&#xe3;o"/>
+</node>
+<node CREATED="1696894534326" ID="ID_1092380824" MODIFIED="1696894711703" TEXT="Ordinal">
+<node CREATED="1696894714325" ID="ID_672034564" MODIFIED="1696894720929" TEXT="n&#xe3;o num&#xe9;rica"/>
+<node CREATED="1696894721459" ID="ID_1933750217" MODIFIED="1696894725834" TEXT="ordenada"/>
+<node CREATED="1696894726340" ID="ID_70698593" MODIFIED="1696895164755" TEXT="factor, na linguagem R">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1696894750119" ID="ID_1149613631" MODIFIED="1696894759161" TEXT="Ex. grau de escolaridade"/>
+</node>
+</node>
+<node CREATED="1696894495377" ID="ID_494299924" MODIFIED="1696894501634" POSITION="left" TEXT="Quantitativa">
+<node CREATED="1696894542236" ID="ID_1247646441" MODIFIED="1696894547089" TEXT="Discreta">
+<node CREATED="1696894849845" ID="ID_1411743771" MODIFIED="1696895168004" TEXT="integer, na linguagem R">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1696895142010" ID="ID_1887885608" MODIFIED="1696895151857" TEXT="Ex. n&#xfa;mero de filhos"/>
+</node>
+<node CREATED="1696894548748" ID="ID_715155831" MODIFIED="1696894553822" TEXT="Cont&#xed;nua">
+<node CREATED="1696895085266" ID="ID_150193551" MODIFIED="1696895170105" TEXT="numeric, na linguagem R">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1696895178373" ID="ID_497440884" MODIFIED="1696895280313" TEXT="Ex. propor&#xe7;&#xf5;es entre classifica&#xe7;&#xf5;es - 11.2% do tipo A, 5.4% do tipo B, etc."/>
+</node>
+</node>
+</node>
+</map>
