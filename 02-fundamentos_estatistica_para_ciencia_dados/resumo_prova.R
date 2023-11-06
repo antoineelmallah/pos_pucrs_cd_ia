@@ -188,6 +188,30 @@ sum(is.na(energy)) # verificar dados faltantes
 VIM::aggr(energy) # verificar dados faltantes
 pairs(x = energy) # matriz de dispersão. Interessante que as variáveis x sejam menos associadas entre si e que as variáveis x e y sejam mais associadas entre si para determinar a associação entre elas
 fit0 <- lm(Y1 ~ X1 + X2 + X3 + X4 + X5 + X6 + X7 + X8, data = energy) # modelo saturado pois estamos usando todas as variáveis simultanearmente
+par(mfrow = c(2,2))
+plot(fit0, witch = 1:4) # analise gráfica do fit0
+plot(fit1, witch = 1:4) # analise gráfica do fit1, ajustado de fit0
 summary(fit0) # escolher quais coeficientes devem sair da equação por terem p-value maiores que 5% 
 fit1 <- step(fit0) # ajuste do modelo, removendo variáveis não relevantes de acordo com os p-values
 summary(fit1)
+stats::predict(object = fit1)
+
+# 5.3. Regressão logística
+# Para variáveis binárias ou dicotômicas
+
+# 6. Series temporais:
+
+# 6.1. ARIMA
+x <- 1:10
+length(x)
+dx <- diff(x) # subtrai cada elemento do vetor pelo elemento anterior. O vetor resultante terá tamanho igual ao anterior menos 1
+length(dx)
+
+library(fpp2)
+?auto.arima
+
+fit <- auto.arima(WWWusage) # WWWusage é uma série temporal
+plot(WWWusage)
+plot(diff(WWWusage))
+ plot(forecast(fit, h=20))
+
