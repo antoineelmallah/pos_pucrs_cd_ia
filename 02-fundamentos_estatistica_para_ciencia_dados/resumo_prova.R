@@ -214,4 +214,4 @@ fit <- auto.arima(WWWusage) # WWWusage é uma série temporal
 plot(WWWusage)
 plot(diff(WWWusage))
  plot(forecast(fit, h=20))
-
+ 
