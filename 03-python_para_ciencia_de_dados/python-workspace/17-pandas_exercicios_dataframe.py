@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+from pandas.plotting import scatter_matrix
+
 
 df = pd.read_csv('examples/brain_size.csv', sep=';')
 
@@ -17,4 +19,6 @@ print('total de mulheres: ', mulheres)
 # 3)
 gb =  np.log(df.groupby('Gender')['MRI_Count'].mean())
 
-print(gb)
+scatter_matrix(df[['Weight', 'Height', 'MRI_Count']])
+
+
