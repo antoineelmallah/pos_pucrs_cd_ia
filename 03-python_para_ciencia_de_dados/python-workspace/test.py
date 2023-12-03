@@ -1,14 +1,5 @@
-points = [(2.5, 3.1), (1.0, 0.5), (5.5, 9.9)]
+import numpy as np
 
-def centroid(points):
-    if len(points) == 0:
-        return None
-    if type(points[0]) == int:
-        return mean(points)
-    dimension = len(points[0])
-    return tuple([mean([p[axis] for p in points]) for axis in range(dimension)])
+a = np.array([1,2,3,4,5,6,7,8], dtype='c')
 
-def mean(numbers):
-    return sum(numbers) / len(numbers)
-
-print(centroid(points))
+print(np.iscomplex(a))
